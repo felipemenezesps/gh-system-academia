@@ -12,8 +12,11 @@ Este projeto é uma solução completa para gestão de academias de artes marcia
 
 Como aspirante a QA, utilizei este projeto para exercitar a melhoria contínua de software:
 
-* **v1.0 (MVP):** Armazenamento em arquivos de texto simples (.txt) e interface nativa básica. (Arquivo `clientes_academia.txt` incluso no repositório).
+* **v1.0 (MVP):** Armazenamento em arquivos de texto simples (.txt) e interface nativa básica.
+![Interface Antiga](https://github.com/felipemenezesps/gh-system-academia/blob/main/mvp_print.png?raw=true)
+
 * **v12.2 (Atual):** Migração para banco de dados Excel com integração **Pandas**, interface moderna em **Dark Mode** e dashboards dinâmicos.
+![Interface Atual](https://github.com/felipemenezesps/gh-system-academia/blob/main/final_print.png?raw=true)
 
 ---
 
